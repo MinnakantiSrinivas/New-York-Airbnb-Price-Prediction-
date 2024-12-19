@@ -37,3 +37,5 @@ The Bronx
 After Inputing fields like neighborhood, room type, property type,Accomodates number of beds, and bathrooms click on Predict Price. 
 
 Visualization of price predictions across different boroughs will be displayed. 
+
+Here's the link to the final application: https://srinivasminnakanti.shinyapps.io/airbnb/
